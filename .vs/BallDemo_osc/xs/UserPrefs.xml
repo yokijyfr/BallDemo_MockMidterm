@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{DB24DB55-466C-8E86-1E7A-3E1E92024996}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/MovePlayer.cs">
+    <Files>
+      <File FileName="Assets/OSCHandler.cs" Line="79" Column="12" />
+      <File FileName="Assets/Scripts/MovePlayer.cs" Line="42" Column="9" />
+      <File FileName="Assets/Scripts/Rotator.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

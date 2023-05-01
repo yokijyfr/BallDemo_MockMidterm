@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{5EEF6A0D-90C9-023F-700E-E5256BC6D967}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/OSCHandler.cs">
+    <Files>
+      <File FileName="Assets/Scripts/MovePlayer.cs" Line="55" Column="47" />
+      <File FileName="Assets/OSC/OSCServer.cs" Line="191" Column="1" />
+      <File FileName="Assets/OSCHandler.cs" Line="95" Column="20" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
